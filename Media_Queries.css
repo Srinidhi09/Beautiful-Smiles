@@ -1,0 +1,73 @@
+@media screen and (max-width: 1600px){
+    
+    #main-div{
+    
+        width: 80%;
+        background-image: url("herobanner.jpg");
+    }
+    
+    #page-wrap{
+
+        width: 70%;
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 1080px){
+    
+    #main-div{
+        
+        width: 85%;
+        background-image: url("herobanner.jpg");
+    }
+    #page-wrap{
+        
+        width: 80%;
+        margin-top: 50px;
+    }
+    #schedule{
+        
+        width: 70%;
+    }
+    #title-2{
+        
+        font-size: 50px;
+    }
+    
+}
+
+@media screen and (max-width: 680px){
+    
+    #main-div{
+        
+        width: 90%;
+        background-image: url("herobanner.jpg");
+    }
+    #page-wrap{
+        
+        width: 90%;
+    }
+    #schedule-status{
+        
+        font-size: 12px;
+    }
+    #call-us{
+        
+        padding: 10px;
+    }
+
+}
+
+@media screen and (max-width: 400px){
+    
+    #main-div{
+        
+        width: 95%;
+        background-image: url("herobanner.jpg");
+    }
+    #schedule{
+        
+        font-size: 10px;
+    }
+}
